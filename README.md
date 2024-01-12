@@ -26,7 +26,7 @@
 ### :hammer: Языки и технологии :
 
 <div>
-  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки\1s.png" alt="1C" width="40"> 
+  <img src = "https://pgram.ru/wp-content/uploads/2018/01/1%D1%81.png" alt="1C" width="40"> 
 </div>
 
 ---
