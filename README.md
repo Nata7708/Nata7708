@@ -42,3 +42,10 @@
 - :zap: У меня есть сертификат [Профессионал по платформе 1С:Предприятие](https://uc1.1c.ru/account/summary/?token=9eff7d438e180abad73b3498484dfa6b&ver=2)
 
 - :briefcase: Моё резюме на [НН](https://hh.ru/resume/49ad674bff0c28a3f90039ed1f416c4a414846)
+
+
+---
+
+### :fire: Моя статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nata7708&theme=sunset-gradient&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
