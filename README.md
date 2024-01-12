@@ -48,3 +48,6 @@
 
 ---
 
+### :fire: Моя статистика :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Nata7708=vn7n24fzkq&theme=default)
