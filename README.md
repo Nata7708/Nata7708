@@ -26,7 +26,7 @@
 ### :hammer_and_wrench: Языки и технологии :
 
 <div>
-  <img src="https://images.app.goo.gl/2PTyK6GGFmgThRxc7" title="1С"  width="40"> 
+  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки" title="1С"  width="40"> 
 </div>
 
 ---
