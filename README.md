@@ -54,6 +54,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nata7708&theme=default)
 
+----
+
+
+
+
 <div id="scroll" align="center">
 <marquee behavior="scroll" bgcolor="#FFFACD" scrollAmount="5" scrolldelay="10" width="50%" height="60" >
 <font size="5" color="#B22222">Если вы в чем-то не разбираетесь</font> <img src="https://66soft.ru/upload/iblock/bbf/7ag6u5hwdnkl0tnqnx8652ue1v1t4ae7.webp" width="60" height="60">
