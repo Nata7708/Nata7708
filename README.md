@@ -1,6 +1,10 @@
 
 
-<p align="center"><iframe src="https://giphy.com/embed/JRCl5NzZktObE4MQeD" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girlswhocode-girls-who-code-m4s-marchforsisterhood-JRCl5NzZktObE4MQeD">via GIPHY</a></p>
+<p align="center">
+<iframe src="https://giphy.com/embed/JRCl5NzZktObE4MQeD" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe><p><a href="https://giphy.com/gifs/girlswhocode-girls-who-code-m4s-marchforsisterhood-JRCl5NzZktObE4MQeD">via GIPHY</a>
+</p>
+</p>
 
 
 <div id="header" align="center">
