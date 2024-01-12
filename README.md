@@ -50,4 +50,4 @@
 
 ### :fire: Моя статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nata77008&theme=sunset-gradient)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Nata7708=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
