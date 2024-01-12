@@ -26,7 +26,7 @@
 ### :hammer_and_wrench: Языки и технологии :
 
 <div>
-  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки\1s.png" title="1С"  width=""> 
+  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки\1s.png"  width="40"> 
 </div>
 
 ---
