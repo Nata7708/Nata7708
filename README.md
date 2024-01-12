@@ -1,7 +1,7 @@
 
-<div align="center"> 
-<iframe src="https://giphy.com/embed/JRCl5NzZktObE4MQeD" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></вiframe><p><a href="https://giphy.com/gifs/girlswhocode-girls-who-code-m4s-marchforsisterhood-JRCl5NzZktObE4MQeD">via GIPHY</a></p>
-</div>
+
+<p align="center"><iframe src="https://giphy.com/embed/JRCl5NzZktObE4MQeD" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girlswhocode-girls-who-code-m4s-marchforsisterhood-JRCl5NzZktObE4MQeD">via GIPHY</a></p>
+
 
 <div id="header" align="center">
     <h1>Привет! Я Наталия  </h1>
