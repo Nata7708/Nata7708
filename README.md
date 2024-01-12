@@ -23,10 +23,10 @@
 ---
 
 
-### :hammer_and_wrench: Языки и технологии :
+### :hammer: Языки и технологии :
 
 <div>
-  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки\1s.png"  width="40"> 
+  <img src="C:\Users\Наташа\Desktop\1С\УЧЕБНОЕ\Доки\1s.png" alt="1C" width="40"> 
 </div>
 
 ---
