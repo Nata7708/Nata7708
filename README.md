@@ -43,7 +43,7 @@
 
 - :zap: У меня есть сертификат [Профессионал по платформе 1С:Предприятие](https://uc1.1c.ru/account/summary/?token=9eff7d438e180abad73b3498484dfa6b&ver=2) и курсы повышения квалификации.  Более подробно об этапах обучения можно прочитать [здесь](https://github.com/Nata7708/1C-Roadmap)
 
-- :briefcase: Более подробная информаия в моём резюме на [НН](https://hh.ru/resume/49ad674bff0c28a3f90039ed1f416c4a414846)
+- :briefcase: Моё резюме на [НН](https://hh.ru/resume/49ad674bff0c28a3f90039ed1f416c4a414846)
 
 
 ---
