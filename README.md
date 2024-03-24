@@ -39,11 +39,11 @@
 
 - :open_book: Сменила сферу деятельности, в 46 перешла из бухгалтерии в 1С.
 
-- :seedling: Хочу сделать карьеру в экосистеме 1С
+- :seedling: В настоящее время я Консультант 1С в ООО "Центр информационных технологий в сфере туда и занятости"
 
-- :zap: Получила сертификат [Профессионал по платформе 1С:Предприятие](https://uc1.1c.ru/account/summary/?token=9eff7d438e180abad73b3498484dfa6b&ver=2). Более подробно о моем пути можно прочитать [здесь](https://github.com/Nata7708/1C-Roadmap)
+- :zap: Мой [Паспорт квалификации 1С](https://uc1.1c.ru/account/summary/?token=9eff7d438e180abad73b3498484dfa6b&ver=2). Более подробно о моем пути можно прочитать [здесь](https://github.com/Nata7708/1C-Roadmap)
 
-- :briefcase: Моё резюме на [НН](https://hh.ru/applicant/resumes/view?resume=da62a84aff0cecd7a10039ed1f676f524f6a55)
+- :briefcase: Резюме на [НН](https://hh.ru/applicant/resumes/view?resume=da62a84aff0cecd7a10039ed1f676f524f6a55)
 
 
 ---
