@@ -7,12 +7,12 @@
 
 <div id="header" align="center">
     <h1>Привет👋 Я Наталия  </h1>
-    <h3>Консультант 1С:</h3>
+    <h3>Аналитик 1С:</h3>
 </div>
 
 <div id="socials" align="center">
  
-  <a href="https://tlgg.ru/treshcheva_n">
+  <a href="https://tlgg.ru/natali_7791">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a> 
     <a href="https://wa.clck.bar/79035981130">
