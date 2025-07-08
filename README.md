@@ -15,8 +15,7 @@
   <a href="https://t.me/natali_7791">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a> 
-    <a href="https://wa.clck.bar/79035981130">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a><p>
+  <p>
   <img src="https://komarev.com/ghpvc/?username=Nata7708&style=flat-square&color=blue" alt=""/>
  
 
