@@ -12,7 +12,7 @@
 
 <div id="socials" align="center">
  
-  <a href="https://tlgg.ru/natali_7791">
+  <a href="https://t.me/natali_7791">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a> 
     <a href="https://wa.clck.bar/79035981130">
